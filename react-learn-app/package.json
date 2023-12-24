@@ -1,0 +1,11 @@
+{
+  "name": "react-learn-app",
+  "version": "1.0.0",
+  "description": "react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "brayanmontilla26@gmail.com",
+  "license": "ISC"
+}
